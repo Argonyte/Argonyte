@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=argonyte" alt="argonyte" /></a> </p>
 
-- 🌱 I’m currently learning **for university**
+- 🌱 I’m currently doing **my degree specialization in Finance**
 
 - 💬 Ask me about **OSINT, Cyber Security, Geopolitics, or Finance.**
 
