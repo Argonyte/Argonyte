@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Argonyte</h1>
-<h3 align="center">A passionate Red Teamer and OSINT Researcher with background in SOCMINT, IMINT, GEOINT.</h3>
+<h3 align="center">A passionate Red Teamer and OSINT Researcher with specialization in SOCMINT and IMINT. I also do Finance and have background in AML Research.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=argonyte" alt="argonyte" /></a> </p>
 
 - 🌱 I’m currently learning **for university**
 
-- 💬 Ask me about **OSINT, Cyber Security, Geopolitics, or anything related to that.**
+- 💬 Ask me about **OSINT, Cyber Security, Geopolitics, or Finance.**
 
 - 📫 How to reach me **use my profile page - argonyte.github.io**
 
-- ⚡ Fun fact **I have a very acute memory so I can remember names and faces quite well**
+- ⚡ Fun fact **I also make music on Soundcloud**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
