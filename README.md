@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://dev.to/argonyte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="argonyte" height="30" width="40" /></a>
 <a href="https://twitter.com/argonyte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="argonyte" height="30" width="40" /></a>
-<a href="https://medium.com/@argonyte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@argonyte" height="30" width="40" /></a>
+<a href="https://medium.com/@argonyte.cybersec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@argonyte" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
