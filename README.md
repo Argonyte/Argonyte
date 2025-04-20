@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Argonyte](https://github.com/Argonyte)
 
-- 📫 How to reach me **argonyte@tutamail.com**
+- 📫 How to reach me **i got no mail lol**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
