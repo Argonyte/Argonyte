@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Argonyte</h1>
-<h3 align="center">A passionate Red Teamer and OSINT Researcher with specialization in SOCMINT and IMINT. I am currently majoring in Finance and have background in AML Investigation.</h3>
+<h3 align="center">A Finance guy who has background in Cybersecurity. I specialise in Capital markets. I also specialise in OSINT, Due Dilligence, and Red Team from Cybersecurity's side. </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=argonyte" alt="argonyte" /></a> </p>
 
