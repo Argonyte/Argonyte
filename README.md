@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Argonyte</h1>
-<h3 align="center">A Finance guy who has background in Cybersecurity. I specialise in Capital markets. I also specialise in OSINT, Due Dilligence, and Red Team from Cybersecurity's side. </h3>
+<h3 align="center">A Finance guy who has background in Cybersecurity. I am currently specialising in PE, AM, PM but I also have experience with sell side and econometrics. I also specialise in OSINT, Due Dilligence, and Red Team from Cybersecurity's side. </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=argonyte" alt="argonyte" /></a> </p>
 
